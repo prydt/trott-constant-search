@@ -1,0 +1,1 @@
+# trott-constant-search
